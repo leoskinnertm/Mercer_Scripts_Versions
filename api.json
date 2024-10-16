@@ -6,5 +6,12 @@
             "Initial release",
             "Added drilling minigame"
         ]
+    },
+    "mercer-laundering": {
+        "version": "1.0",
+        "description": "Thanks for purchasing!",
+        "changelog": [
+            "Initial release"
+        ]
     }
 }

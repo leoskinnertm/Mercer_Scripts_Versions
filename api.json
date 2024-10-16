@@ -1,9 +1,10 @@
 {
     "mercer-atmrobbery": {
-        "version": "1.0",
+        "version": "1.2",
         "description": "Thanks for purchasing!",
         "changelog": [
-            "Initial release"
+            "Initial release",
+            "Added drilling minigame"
         ]
     }
 }
